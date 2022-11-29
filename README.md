@@ -1,2 +1,2 @@
 # hello-world
-1.1 Assignment
+DSC 520 - 1.2 Exercise
